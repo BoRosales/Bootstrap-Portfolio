@@ -1,0 +1,32 @@
+.jumbotron{
+    text-align: center;
+    background-color: steelblue;
+    color: #353333;
+}
+form{
+    margin: 20px;
+}
+body{
+    height: 600px;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/dark-grey-terrazzo.png);
+    padding: 20px 0 50px 0;
+    border-top: 1px solid black;
+}
+.col-sm-6{
+    text-align: center;
+    margin: auto;
+}
+.card-body{
+    background-color: rgb(197, 224, 247);
+    text-align: center;
+}
+form{
+    color:#ffff;
+    border: #353333;
+}
+.col-md-9{
+    background-color: #a8a2a2;
+}
+.row{
+    border: 2px #a8a2a2;
+}
