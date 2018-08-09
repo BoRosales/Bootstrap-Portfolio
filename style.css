@@ -30,3 +30,6 @@ form{
 .row{
     border: 2px #a8a2a2;
 }
+.col-md-12{
+    background-color: #a8a2a2
+}
